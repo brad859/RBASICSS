@@ -335,5 +335,9 @@ You can use the following operators to compare two variables and return a logica
 2.  What values can a BOOLEAN contain?
 
 ```{r}
-#Yes and No
+#TRUE OF FALSE
+#Example 
+10 < 9 # sHOULD RETURN FALSE
+10 > 9 # SHOULD RETURN TRUE
+
 ```
